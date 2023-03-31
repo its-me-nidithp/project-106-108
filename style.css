@@ -1,0 +1,51 @@
+body{
+
+    font-size: 20;
+    font-family: cursive;
+    background-color: red;
+    color: #ffffff;
+
+}
+
+
+.copy_right_footer{
+
+    bottom: 0;
+    position: fixed;
+    background-color: black;
+    color: #ffffff;
+    width: 100%;
+    font-size: 20;
+    font-family: cursive;
+    text-shadow: 5px 5px 20px white;
+    
+    }
+
+ .pTag{
+
+font-size: 30px;
+
+ }   
+
+ .header{
+
+    background-color: #000000;
+    color: #FFFFFF;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    
+    }
+
+#startButton{
+    
+    margin-top: 125px;
+    width: 130px;
+    letter-spacing: 3px;
+    font-size: 25px;
+    font-variant: small-caps;
+    font-weight:bolder ;
+
+}
+
+
